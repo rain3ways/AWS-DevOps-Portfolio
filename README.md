@@ -73,15 +73,15 @@ My background managing the demanding, fast-paced environment of retail startups 
 <div align="center" style="border-top: 3px solid #2d3436; padding: 20px 0; margin-top: 30px;">
   <h2>🚀 Let's Build Reliable & Efficient Cloud Solutions Together</h2>
   <p>Open to discussing DevOps/Cloud Engineer roles, freelance projects, or collaborations.</p>
-  <a href="https://linkedin.com/in/rainb"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/rain3ways"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:rainning.rb@gmail.com"> <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:rain3ways@gmail.com"> <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/rain-xiii"> <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/rain3ways"> <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frain-xiii%2FAWS-DevOps-Portfolio&label=PROFILE%20VISITORS&countColor=%23263759&style=flat&labelColor=%23FFFFFF" alt="Visitors"/> </p>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frain3ways%2FAWS-DevOps-Portfolio&label=PROFILE%20VISITORS&countColor=%23263759&style=flat&labelColor=%23FFFFFF" alt="Visitors"/> </p>
 
 
